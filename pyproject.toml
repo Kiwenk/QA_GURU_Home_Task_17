@@ -8,7 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 pytest = "^8.3.2"
-selene = "^1.0.2"
+selene = "^2.0.0rc6"
 
 
 [tool.poetry.group.dev.dependencies]
