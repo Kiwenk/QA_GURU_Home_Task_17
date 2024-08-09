@@ -1,0 +1,4 @@
+pytest==8.3.2
+requests==2.32.3
+jsonschema==4.23.0
+resource==0.2.1
